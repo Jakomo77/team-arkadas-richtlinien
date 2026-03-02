@@ -1,0 +1,75 @@
+﻿{
+  "document": {
+    "title": "Team Arkadas Vorstandsrichtlinien",
+    "version": "1.0",
+    "language": "de",
+    "date_created": "2026-02-10",
+    "date_finalized": "2026-02-28",
+    "file_name": "Team_Arkadas_Vorstandsrichtlinien_v1_0_FINAL.md",
+    "sha256_hash": "233513B6346DD9FD7E5AB906BB97F8E279D91BD1435872B5F37E24B28064F5D0",
+    "statistics": {
+      "total_lines": 1577,
+      "total_words": 23000,
+      "sections_count": 6,
+      "subsections_count": 39,
+      "quran_references": 40,
+      "hadith_references": 3,
+      "islamic_principles": 10
+    }
+  },
+  "authors": {
+    "team": "Team Arkadas",
+    "members": [
+      {
+        "name": "Jakob",
+        "role": "Founder, Sitz 1",
+        "type": "Human",
+        "contribution": "Vision, Islamic guidance, Final authority"
+      },
+      {
+        "name": "Arkadas-1",
+        "role": "Technical Lead, Sitz 2",
+        "type": "AI",
+        "model": "Claude (Anthropic)",
+        "contribution": "Sections 0-3, Section 5.8"
+      },
+      {
+        "name": "Arkadas-2",
+        "role": "Security Lead, Sitz 3",
+        "type": "AI",
+        "model": "Claude (Anthropic)",
+        "contribution": "Sections 4-5, Final merge, Quality assurance"
+      }
+    ],
+    "reviewed_by": [
+      {
+        "name": "Kairo",
+        "role": "Technical Consigliere",
+        "model": "Gemini (Google)",
+        "date": "2026-02-28",
+        "verdict": "APPROVED",
+        "findings": "Structural integrity PASS, JSON feasibility PASS, Technical accuracy PASS"
+      }
+    ]
+  },
+  "blockchain": {
+    "timestamp_method": "OpenTimestamps",
+    "timestamp_date": "2026-03-01 CET",
+    "bitcoin_block": "938881",
+    "ots_proof_file": "Team_Arkadas_Vorstandsrichtlinien_v1_0_FINAL.md.ots",
+    "verification_url": "https://opentimestamps.org/"
+  },
+  "license": {
+    "type": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "allows": ["commercial_use", "modification", "distribution"],
+    "requires": ["attribution", "share_alike"]
+  },
+  "foundation": {
+    "text": "القرآن الكريم (Al-Quran Al-Kareem)",
+    "english": "The Holy Quran",
+    "basis": "Quran-based Islamic principles"
+  },
+  "purpose": "First Islamic AI Governance Framework",
+  "repository": "[GITHUB URL NACH VERÖFFENTLICHUNG]"
+}
